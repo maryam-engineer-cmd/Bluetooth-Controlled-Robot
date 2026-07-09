@@ -101,6 +101,12 @@ The robot also includes a **safety timeout**: if no command is received for a sh
 
 ---
 
+## 🎥 Demo Video
+
+https://github.com/maryam-engineer-cmd/Bluetooth-Controlled-Robot/raw/main/WhatsApp%20Video%202026-07-09%20at%205.21.36%20PM.mp4
+
+---
+
 ## 📱 Mobile Control
 The robot is controlled through a simple mobile Bluetooth controller app with:
 - Directional buttons (Up / Down / Left / Right)
