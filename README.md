@@ -1,5 +1,12 @@
 # 🤖 Bluetooth Controlled Robot using PIC16F877A
 
+![Robot Cover](https://github.com/maryam-engineer-cmd/Bluetooth-Controlled-Robot/raw/main/WhatsApp%20Image%202026-07-09%20at%205.42.52%20PM.jpeg)
+
+👩‍🎓 **Prepared by:** Maryam Mohamed Rami
+🎓 **Ahram Canadian University**
+
+---
+
 ## 📌 Overview
 This project presents a Bluetooth-controlled robotic vehicle designed using the PIC16F877A microcontroller. The robot is controlled wirelessly through an Android smartphone using the HC-05 Bluetooth module. The system receives commands from the mobile application via UART communication and controls the motors using the L298N motor driver.
 
@@ -106,6 +113,11 @@ Commands received over Bluetooth (UART, 9600 baud):
 | `1`–`9` | Set Speed (Slow → Max) |
 
 The robot also includes a **safety timeout**: if no command is received for a short period, the motors automatically stop.
+
+---
+
+## 📊 Project Presentation
+You can view the full project presentation here: [Presentation.pptx](./Presentation.pptx)
 
 ---
 
