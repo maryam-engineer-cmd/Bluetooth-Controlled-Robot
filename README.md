@@ -46,6 +46,14 @@ The Bluetooth controlled robot car is a remotely operated vehicle that can be co
 
 ---
 
+## 🖼️ Hardware Setup
+
+Below is a photo of the assembled 4WD robot chassis showing the breadboard, L298N driver, HC-05 module, and battery holder wiring:
+
+![Robot Hardware Setup](https://github.com/maryam-engineer-cmd/Bluetooth-Controlled-Robot/raw/main/WhatsApp%20Image%202026-07-09%20at%205.42.52%20PM.jpeg)
+
+---
+
 ## 🔌 Circuit Connections
 
 ### HC-05 → PIC16F877A
@@ -101,9 +109,15 @@ The robot also includes a **safety timeout**: if no command is received for a sh
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Videos
+
+**Full demo:**
 
 https://github.com/maryam-engineer-cmd/Bluetooth-Controlled-Robot/raw/main/WhatsApp%20Video%202026-07-09%20at%205.21.36%20PM.mp4
+
+**Testing the robot during the project discussion:**
+
+https://github.com/maryam-engineer-cmd/Bluetooth-Controlled-Robot/raw/main/WhatsApp%20Video%202026-07-09%20at%205.42.43%20PM.mp4
 
 ---
 
