@@ -2,7 +2,7 @@
 
 ![Robot Cover](https://github.com/maryam-engineer-cmd/Bluetooth-Controlled-Robot/raw/main/WhatsApp%20Image%202026-07-09%20at%205.42.52%20PM.jpeg)
 
-👩‍🎓 **Prepared by:** Maryam Mohamed Rami
+👩‍🎓 **Prepared by:**  Eng:Maryam Mohamed Ramy
 🎓 **Ahram Canadian University**
 
 ---
